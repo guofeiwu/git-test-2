@@ -3,8 +3,7 @@
 //但是这个编码格式总是会乱码
 public class A{
 	private String name;
-	
-	public A(){}
+
 	public A(String name){
 		this.name = name;
 	}
