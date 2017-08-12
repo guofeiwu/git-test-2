@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e32e5148-9718-4383-b2dd-b464c33ef1a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e32e5148-9718-4383-b2dd-b464c33ef1a9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -550,7 +547,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502550101762</updated>
-      <workItem from="1502550103946" duration="307000" />
+      <workItem from="1502550103946" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个新创建的test类">
       <created>1502550408831</created>
@@ -563,7 +560,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307000" />
+    <option name="totallyTimeSpent" value="904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1048" extended-state="0" />
