@@ -1,6 +1,7 @@
 package com.wgf.git.bean;
 
 /**
+ * 我在这里添加了一点注释
  * Created by GuofeiWu on 2017/8/12.
  */
 public class User {
