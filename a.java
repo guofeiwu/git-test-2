@@ -3,7 +3,8 @@
 //但是这个编码格式总是会乱码
 public class A{
 	private String name;
-
+	//添加了一个无参的构造函数
+	public A(){}
 	public A(String name){
 		this.name = name;
 	}
