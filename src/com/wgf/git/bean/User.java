@@ -8,6 +8,8 @@ public class User {
     private int age;
     private String name;
 
+    private String province;
+
     public int getAge() {
         return age;
     }
@@ -44,4 +46,5 @@ public class User {
     public User(String name) {
         this.name = name;
     }
+
 }
