@@ -46,5 +46,8 @@ public class User {
     public User(String name) {
         this.name = name;
     }
-
+    
+    public void setProvince(String province) {
+        this.province = province;
+    }
 }
