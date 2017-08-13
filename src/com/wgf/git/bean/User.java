@@ -37,6 +37,13 @@ public class User {
      */
     public User() {
     }
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 47fa578... 添加了toString方法
+=======
+
+    public User(int age) {
+        this.age = age;
+    }
+>>>>>>> develop
 }
