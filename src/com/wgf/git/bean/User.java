@@ -9,6 +9,11 @@ public class User {
     private String name;
 
     private String province;
+    private String city;
+
+    public void setCity(String city) {
+        this.city = city;
+    }
 
     public int getAge() {
         return age;
