@@ -30,4 +30,10 @@ public class User {
                 ", name='" + name + '\'' +
                 '}';
     }
+
+    /**
+     * 无参构造函数
+     */
+    public User() {
+    }
 }
