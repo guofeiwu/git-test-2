@@ -38,9 +38,12 @@ public class User {
     public User() {
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 47fa578... 添加了toString方法
 =======
+=======
+>>>>>>> develop
 
     public User(int age) {
         this.age = age;
@@ -51,5 +54,10 @@ public class User {
     public User(String name) {
         this.name = name;
     }
+<<<<<<< HEAD
+>>>>>>> develop
+=======
+=======
+>>>>>>> parent of 451040b... 带有年龄的构造函数
 >>>>>>> develop
 }
