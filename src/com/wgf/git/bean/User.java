@@ -45,4 +45,9 @@ public class User {
     public User(String name) {
         this.name = name;
     }
+
+    //add setter
+    public void setAddress(String address){
+        this.address = address;
+    }
 }
