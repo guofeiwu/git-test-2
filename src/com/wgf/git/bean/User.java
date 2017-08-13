@@ -36,8 +36,6 @@ public class User {
      */
     public User() {
     }
-<<<<<<< HEAD
-
     public User(int age) {
         this.age = age;
     }
@@ -45,6 +43,14 @@ public class User {
     public User(String name) {
         this.name = name;
     }
-=======
->>>>>>> parent of 451040b... 带有年龄的构造函数
+
+    /**
+     * 两个参数的构造函数
+     * @param age 年龄
+     * @param name 姓名
+     */
+    public User(int age, String name) {
+        this.age = age;
+        this.name = name;
+    }
 }
