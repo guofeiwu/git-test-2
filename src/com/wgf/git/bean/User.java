@@ -46,4 +46,10 @@ public class User {
         this.age = age;
     }
 >>>>>>> develop
+=======
+
+    public User(String name) {
+        this.name = name;
+    }
+>>>>>>> develop
 }
