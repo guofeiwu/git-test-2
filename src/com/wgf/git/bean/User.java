@@ -22,6 +22,7 @@ public class User {
     public void setName(String name) {
         this.name = name;
     }
+<<<<<<< HEAD
 
     @Override
     public String toString() {
@@ -36,4 +37,6 @@ public class User {
      */
     public User() {
     }
+=======
+>>>>>>> parent of 47fa578... 添加了toString方法
 }
