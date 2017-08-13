@@ -36,4 +36,8 @@ public class User {
      */
     public User() {
     }
+
+    public User(int age) {
+        this.age = age;
+    }
 }
