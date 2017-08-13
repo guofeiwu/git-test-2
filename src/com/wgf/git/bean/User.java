@@ -4,6 +4,7 @@ package com.wgf.git.bean;
  * Created by GuofeiWu on 2017/8/12.
  */
 public class User {
+    private int id;
     private int age;
     private String name;
 
