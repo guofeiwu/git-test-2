@@ -10,8 +10,6 @@ public class User {
 
     private String province;
 
-    //city
-    private String city;
     public int getAge() {
         return age;
     }
@@ -48,7 +46,7 @@ public class User {
     public User(String name) {
         this.name = name;
     }
-
+    
     public void setProvince(String province) {
         this.province = province;
     }
