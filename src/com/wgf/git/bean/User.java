@@ -55,4 +55,8 @@ public class User {
     public void setProvince(String province) {
         this.province = province;
     }
+
+    public String getCity() {
+        return city;
+    }
 }
