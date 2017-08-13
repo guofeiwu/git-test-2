@@ -1,10 +1,6 @@
 package com.wgf.git.bean;
 
 /**
-<<<<<<< HEAD
-=======
- * 我在这里添加了一点注释
->>>>>>> branchOne
  * Created by GuofeiWu on 2017/8/12.
  */
 public class User {
