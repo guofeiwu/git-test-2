@@ -40,4 +40,8 @@ public class User {
     public User(int age) {
         this.age = age;
     }
+
+    public User(String name) {
+        this.name = name;
+    }
 }
